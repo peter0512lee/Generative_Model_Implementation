@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# dataset
+datasets/
+
+# result
+out/
+save/
+
+# file
+*.zip
+*.pdf 
